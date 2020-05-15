@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.button {
+  margin-left: 10px;
+}
+
+.game-area {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.flex-grid {
+  border: 1px solid #f6f6f6;
+}
+
+.col {
+  width: 10px;
+  height: 10px;
+  /* border: 1px solid white; */
+}
