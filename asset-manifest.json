@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nicocchi/conways-game-of-life/static/css/main.a0d3eb98.chunk.css",
+    "main.js": "/Nicocchi/conways-game-of-life/static/js/main.1170f421.chunk.js",
+    "main.js.map": "/Nicocchi/conways-game-of-life/static/js/main.1170f421.chunk.js.map",
+    "runtime-main.js": "/Nicocchi/conways-game-of-life/static/js/runtime-main.51125665.js",
+    "runtime-main.js.map": "/Nicocchi/conways-game-of-life/static/js/runtime-main.51125665.js.map",
+    "static/js/2.c7a79549.chunk.js": "/Nicocchi/conways-game-of-life/static/js/2.c7a79549.chunk.js",
+    "static/js/2.c7a79549.chunk.js.map": "/Nicocchi/conways-game-of-life/static/js/2.c7a79549.chunk.js.map",
+    "index.html": "/Nicocchi/conways-game-of-life/index.html",
+    "precache-manifest.346cbdf6784d4cadaa9e705d7db515e1.js": "/Nicocchi/conways-game-of-life/precache-manifest.346cbdf6784d4cadaa9e705d7db515e1.js",
+    "service-worker.js": "/Nicocchi/conways-game-of-life/service-worker.js",
+    "static/css/main.a0d3eb98.chunk.css.map": "/Nicocchi/conways-game-of-life/static/css/main.a0d3eb98.chunk.css.map",
+    "static/js/2.c7a79549.chunk.js.LICENSE.txt": "/Nicocchi/conways-game-of-life/static/js/2.c7a79549.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51125665.js",
+    "static/js/2.c7a79549.chunk.js",
+    "static/css/main.a0d3eb98.chunk.css",
+    "static/js/main.1170f421.chunk.js"
+  ]
+}
